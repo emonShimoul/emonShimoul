@@ -16,7 +16,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 
-- 🌱 I’m currently work with **NodeJS, ExpressJS and MongoDB**
+- 🌱 I’m currently working with **NodeJS, ExpressJS and MongoDB**
 
 - 💬 Ask me about **ReactJS**
 
