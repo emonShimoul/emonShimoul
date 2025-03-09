@@ -12,17 +12,17 @@
 
 - 📫 How to reach me **emonshimoul@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emonshimoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emonshimoul" height="30" width="40" /></a>
-<a href="https://fb.com/emonshimoul53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emonshimoul53" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emonshimoul&show_icons=true&locale=en&layout=compact" alt="emonshimoul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emonshimoul&show_icons=true&locale=en" alt="emonshimoul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emonshimoul&" alt="emonshimoul" /></p>
+
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emonshimoul) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/emonshimoul53)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emonshimoul&label=Profile%20views&color=0e75b6&style=flat" alt="emonshimoul" /> </p>
 
